@@ -2,6 +2,7 @@
   "name": "code-reporter",
   "displayName": "code-reporter",
   "description": "describe section of code",
+  "publisher": "ArmelWanes",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
