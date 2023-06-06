@@ -12,7 +12,7 @@ Code Reporter is a Visual Studio Code extension that allows you to create code r
 - Store additional information on why tasks are not yet finished.
 
 ## Demo
-![Démo](demo.gif)
+![Démo](https://raw.githubusercontent.com/armelgeek/code-reporter/master/demo.gif)
 ## Installation
 
 1. Open Visual Studio Code.
